@@ -4,7 +4,7 @@ title: Julian Assange & the Rule of Law
 pubDate: Fri, 11 Feb 2011 01:15:44 +0000
 Author:  adrian
 excerpt: Now all the hype around Julian Assange has subsided, it is time for considered debate about what wikileaks has taught us about democracy, government and human nature.
-----
+---
 
 # Julian Assange & the Rule of Law
 
