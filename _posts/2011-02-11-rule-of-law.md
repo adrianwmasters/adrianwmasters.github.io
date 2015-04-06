@@ -6,11 +6,7 @@ Author:  adrian
 excerpt: Now all the hype around Julian Assange has subsided, it is time for considered debate about what wikileaks has taught us about democracy, government and human nature.
 ---
 
-# Julian Assange & the Rule of Law
-
 Now all the hype has subsided, it is time for considered debate about what wikileaks has taught us about democracy, government and human nature. Whether Julian Assange is guilty of crimes in Sweden remains to be determined, and should be considered separately from the release of leaked information and response to that leaking.
-
-----
 
 Firstly, the major differences between the publication of Wikileaks and a newspaper article based on leaked information are of volume and transformation. The volume of materials published by Wikileaks is vast compared to that through a series of newspaper articles (or equivalent televisual journalism). Wikileaks material is less transformed from original source material than normal articles.
 
